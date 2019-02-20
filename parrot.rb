@@ -5,5 +5,4 @@ def parrot(sound="Squawk!")
   parrot
 end
 
-parrot
 parrot("Pretty Bird!")
